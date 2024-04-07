@@ -243,7 +243,7 @@ body{
 .contenedor{
     position: relative;
   
-    height: 35vh;
+    height: 40vh;
     display: flex; 
     justify-content: center;
     align-items: last baseline;
@@ -251,7 +251,7 @@ body{
 .conten{
     position: relative;
     
-    height: 65vh;
+    height: 60vh;
     
     display: flex; 
     justify-content: center;
